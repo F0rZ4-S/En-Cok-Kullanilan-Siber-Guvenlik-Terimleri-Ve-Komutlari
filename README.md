@@ -21,7 +21,7 @@ Udp: UDP bağlantı tabanlı değildir (connectionless). UDP'de akış kontrolü
 2. netdiscover - Yerel ağlarda ip taraması yapan bir komuttur ve bu router içerisinde iseniz bir wifi olabilir bunların taramasını size listeler.
 3. Gobuster - bir dizin keşfi yapabilen brute force saldırı programıdır.
 4. ftp - Eğer "21/tcp open ftp" taramadan sonra önünüze geldi ise ftp komutu ile bu açıktan yararlanarak ftp üzerinde "Anonymous" olarak sızmanızı sağlar.
-5. Telnet - Telecommunication Network, 
+5. Telnet - Telecommunication Network, bir bilgisayarın, internet üzerinden uzaktaki bir bilgisayarla iletişim kurmasını sağlayan metin tabanlı bir TCP/IP ağ protokollerinden biridir. Telnet hizmetlerinin de Web siteleri gibi  bir adresi vardır.
 
 
 
@@ -37,7 +37,6 @@ Udp: UDP bağlantı tabanlı değildir (connectionless). UDP'de akış kontrolü
     Bu kategorideki betiklerin %40'ı izinsiz olarak kabul edilir ve bir hedefe karşı çalıştırılmamalıdır. İzinsiz çalıştırılmamalıdır. Eğer bir sızma senaryosu içerisinde iseniz izinli bir şekilde kullanılabilir.
 9. nmap -sV ile versiyon bilgileri alınır. Örneğin Apache versionunu buradan edinebilirsiniz.
 10. nmap -v Ayrıntı düzeyini artırarak, Nmap'in sürmekte olan tarama hakkında daha fazla bilgi yazdırmasına neden olur. Ama bunu kullandığınızda sisteminize bağlı olarak süresi artacaktır.
-11. 
 
 
 ## Terminal Komutları
